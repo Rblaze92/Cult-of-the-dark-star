@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Darkstar cult",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
