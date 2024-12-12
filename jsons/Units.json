@@ -14,18 +14,3 @@
 		"attackSound": "phasers"
 	}
 ]
-[
-	{
-		"name": "Shadespawn",
-		"unitType": "Scout",
-		"uniqueTo": "Darkstar cult",
-		"movement": 5,
-		"strength": 15,
-		"rangedStrength": 1,
-		"range": 1,
-		"cost": 25,
-		"requiredTech": "Theology",
-		"promotions": ["Logistics","Accuracy I","AccuracyII"],
-		"attackSound": "phasers"
-	}
-]
