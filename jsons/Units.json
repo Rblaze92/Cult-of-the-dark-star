@@ -36,6 +36,20 @@
 		"cost": 30,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+ {
+		"name": "Darkstar avatar",
+		"unitType": "Sword",
+		"uniqueTo": "Darkstar cult",
+		"replaces": "Longswordsman",
+		"movement": 7, 
+		"strength": 150,
+		"rangedStrength": 50,
+		"range": 4,
+		"cost": 1500,
+		"requiredTech": "Theology",
+		"promotions": ["Logistics","Accuracy I"," AccuracyII"],
+		"attackSound": "phasers"
 	}
 ]
 
