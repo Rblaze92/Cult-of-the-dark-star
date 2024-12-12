@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Shadowspawn",
-		"unitType": "Sword",
+		"unitType": "Scout",
 		"uniqueTo": "Darkstar cult",
 		"replaces": "Longswordsman",
 		"movement": 3, 
@@ -9,6 +9,20 @@
 		"rangedStrength": 2,
 		"range": 1,
 		"cost": 100,
+		"requiredTech": "Theology",
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
+	}, 
+ {
+		"name": "Shadespawn",
+		"unitType": "Sword",
+		"uniqueTo": "Darkstar cult",
+		"replaces": "Scout",
+		"movement": 6, 
+		"strength": 15,
+		"rangedStrength": 2,
+		"range": 1,
+		"cost": 35,
 		"requiredTech": "Theology",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
