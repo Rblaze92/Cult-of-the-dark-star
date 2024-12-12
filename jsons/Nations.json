@@ -27,7 +27,7 @@
 		"afterPeace": "Very well,the Darkstar will spare you this time.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"unique": "MANIFEST_DESTINY",
 		"cities": [" Darktown","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
