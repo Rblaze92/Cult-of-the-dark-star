@@ -6,7 +6,7 @@
 		"replaces": "Longswordsman",
 		"movement": 3, 
 		"strength": 45,
-		"rangedStrength": 2,
+		"rangedStrength": 20,
 		"range": 1,
 		"cost": 100,
 		"requiredTech": "Theology",
@@ -29,11 +29,9 @@
 	}, 
  {
 		"name": "Darkman",
-		"unitType": "Sword",
 		"uniqueTo": "Darkstar cult",
 		"movement": 4, 
 		"strength": 25,
-		"range": 2,
 		"cost": 30,
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
