@@ -47,7 +47,7 @@
 		"range": 4,
 		"cost": 1500,
 		"requiredTech": "Theology",
-		"promotions": ["Logistics","Accuracy I"," AccuracyII"],
+		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
