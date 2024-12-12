@@ -13,12 +13,12 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
+		"name": "Deepwell",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"uniqueTo": "Darkstar cult",
+		"cost": 50,
 		"hurryCostModifier": 160,
-		"happiness": 2,
+		"happiness": 4,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
