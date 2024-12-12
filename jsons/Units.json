@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Darkstar cult",
 		"replaces": "Longswordsman",
-		"movement": 3,
+		"movement": 3, 
 		"strength": 45,
 		"rangedStrength": 2,
 		"range": 1,
