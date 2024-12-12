@@ -29,6 +29,7 @@
 	}, 
  {
 		"name": "Darkman",
+		"unitType": "Sword",
 		"uniqueTo": "Darkstar cult",
 		"movement": 4, 
 		"strength": 25,
