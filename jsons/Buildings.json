@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Unholy statue",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Darkstar cult",
 		"cost": 480,
 		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"culture": 20,
+		"science": 5,
+		"maintenance": 63,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
+		"requiredBuildingInAllCities": "Colosseum"
+	}
+[
 	{
 		"name": "Deepwell",
 		"replaces": "Aqueduct",
