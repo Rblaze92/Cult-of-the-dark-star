@@ -4,7 +4,7 @@
 		"leaderName": "Lived",
 		"adjective": ["Cultist"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace.",
 		"startIntroPart2": "Convert the world to believe in the Darkstar!",
