@@ -10,8 +10,7 @@
 		"maintenance": 63,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum"
-	}
-[
+	}, 
 	{
 		"name": "Deepwell",
 		"replaces": "Aqueduct",
